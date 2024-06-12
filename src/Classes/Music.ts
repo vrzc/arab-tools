@@ -18,6 +18,8 @@ function isVoiceChannel(channel: VoiceBasedChannel): channel is VoiceChannel {
   return (channel as VoiceChannel).speakable !== undefined;
 }
 
+//Test push
+
 // TODO, maybe use lavalink, if can't just remake it in other package
 // TODO, make music better with more options each week.
 
