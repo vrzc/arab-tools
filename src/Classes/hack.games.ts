@@ -1,5 +1,4 @@
-/**
- * import { EventEmitter  } from "events";
+import { EventEmitter  } from "events";
 import { Client, Message } from "discord.js-selfbot-v13";
 enum game {
     Roulette = "Roulette",
@@ -62,4 +61,3 @@ class Games2 extends EventEmitter {
     }
 }
 export default Games2;
- */
