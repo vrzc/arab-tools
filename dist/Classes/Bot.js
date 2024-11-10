@@ -61,6 +61,7 @@ class BotRelatedClass extends events_1.default {
             let startTime = Date.now();
             let membersFetched = yield guild.members.fetch();
             let membersFiltred = membersFetched.filter((m) => !m.user.bot).map((m) => { return m; });
+            let data;
             for (let i = 0; i < membersFiltred.length; i++) {
                 let member = membersFiltred[i];
                 (0, promises_1.setTimeout)(timeout);
@@ -76,9 +77,10 @@ class BotRelatedClass extends events_1.default {
                 if (i == membersFiltred.length - 1) {
                     let endTime = Date.now();
                     let duration = endTime - startTime;
-                    this.emit('broadcastEnd', { guildID, successLength, failedLength, duration });
+                    data = { guildID, successLength, failedLength, duration };
                 }
             }
+            return data ? data : null;
         });
     }
     /**

@@ -26,7 +26,12 @@ declare class BotRelatedClass extends EventEmitter {
      * @returns {Promise<void>} A promise that resolves when the broadcast is complete.
      * @throws {Error} If required options are missing or invalid.
      */
-    broadcast(options: BroadCastOptions): Promise<void>;
+    broadcast(options: BroadCastOptions): Promise<{
+        guildID: string;
+        successLength: number;
+        failedLength: number;
+        duration: number;
+    } | null>;
     /**
      * Multicasts a message to all members of a specified guild, using multiple bots to send the message.
      * @param {MultiCastOptions} options - Options for the multicasting process.
