@@ -1,0 +1,1303 @@
+{
+    "questions": [
+        {
+            "name": "ما هي أول آية نزلت في القرآن الكريم؟",
+            "correct_answer": "اقرأ باسم ربك الذي خلق",
+            "wrong_answers": [
+                "الرحمن علم القرآن",
+                "وَقُولُوا لِلنَّاسِ حُسْنًا",
+                "قُلْ هُوَ اللَّهُ أَحَدٌ"
+            ]
+        },
+        {
+            "name": "من هو أول من أسلم من الرجال؟",
+            "correct_answer": "أبو بكر الصديق",
+            "wrong_answers": ["عمر بن الخطاب", "علي بن أبي طالب", "عبد الله بن مسعود"]
+        },
+        {
+            "name": "كم عدد سور القرآن الكريم؟",
+            "correct_answer": "114 سورة",
+            "wrong_answers": ["100 سورة", "120 سورة", "99 سورة"]
+        },
+        {
+            "name": "ما هي السورة التي تعادل ثلث القرآن؟",
+            "correct_answer": "سورة الإخلاص",
+            "wrong_answers": ["سورة الفاتحة", "سورة البقرة", "سورة الكوثر"]
+        },
+        {
+            "name": "من هو النبي الذي ابتلعه الحوت؟",
+            "correct_answer": "النبي يونس عليه السلام",
+            "wrong_answers": ["النبي موسى", "النبي إبراهيم", "النبي نوح"]
+        },
+        {
+            "name": "ما هي أطول سورة في القرآن؟",
+            "correct_answer": "سورة البقرة",
+            "wrong_answers": ["سورة آل عمران", "سورة النساء", "سورة الفاتحة"]
+        },
+        {
+            "name": "ما هي أقصر سورة في القرآن؟",
+            "correct_answer": "سورة الكوثر",
+            "wrong_answers": ["سورة النصر", "سورة العصر", "سورة المسد"]
+        },
+        {
+            "name": "كم ركعة في صلاة الفجر؟",
+            "correct_answer": "ركعتان",
+            "wrong_answers": ["أربع ركعات", "ثلاث ركعات", "ركعة واحدة"]
+        },
+        {
+            "name": "كم عدد الأنبياء الذين ذكروا في القرآن؟",
+            "correct_answer": "25 نبياً",
+            "wrong_answers": ["30 نبياً", "15 نبياً", "40 نبياً"]
+        },
+        {
+            "name": "ما هو الركن الثاني من أركان الإسلام؟",
+            "correct_answer": "إقامة الصلاة",
+            "wrong_answers": ["إيتاء الزكاة", "صوم رمضان", "حج البيت"]
+        },
+        {
+            "name": "من هو خاتم الأنبياء؟",
+            "correct_answer": "النبي محمد صلى الله عليه وسلم",
+            "wrong_answers": [
+                "النبي عيسى عليه السلام",
+                "النبي موسى عليه السلام",
+                "النبي إبراهيم عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هو اسم والدة النبي محمد؟",
+            "correct_answer": "آمنة بنت وهب",
+            "wrong_answers": ["حليمة السعدية", "أم سلمة", "خديجة بنت خويلد"]
+        },
+        {
+            "name": "ما هو اسم والد النبي محمد؟",
+            "correct_answer": "عبد الله بن عبد المطلب",
+            "wrong_answers": ["أبو طالب", "عبد المطلب", "الزهراء بن أبي طالب"]
+        },
+        {
+            "name": "ما هي دار النعيم في الجنة؟",
+            "correct_answer": "دار السلام",
+            "wrong_answers": ["جنة عدن", "جنة الفردوس", "جنتنا"]
+        },
+        {
+            "name": "ما هو كتاب سيدنا موسى؟",
+            "correct_answer": "التوراة",
+            "wrong_answers": ["الإنجيل", "القرآن", "الزبور"]
+        },
+        {
+            "name": "من هو النبي الذي أرسله الله إلى قوم ثمود؟",
+            "correct_answer": "النبي صالح عليه السلام",
+            "wrong_answers": [
+                "النبي هود عليه السلام",
+                "النبي شعيب عليه السلام",
+                "النبي إبراهيم عليه السلام"
+            ]
+        },
+        {
+            "name": "من هي المرأة التي كفلها النبي زكريا؟",
+            "correct_answer": "مريم عليها السلام",
+            "wrong_answers": ["آسية عليها السلام", "أم موسى", "خديجة عليها السلام"]
+        },
+        {
+            "name": "ما هي أول صلاة فرضت على المسلمين؟",
+            "correct_answer": "صلاة الظهر",
+            "wrong_answers": ["صلاة الفجر", "صلاة العشاء", "صلاة المغرب"]
+        },
+        {
+            "name": "كم مرة تكرر ذكر اسم 'الله' في القرآن؟",
+            "correct_answer": "2699 مرة",
+            "wrong_answers": ["1500 مرة", "2000 مرة", "3000 مرة"]
+        },
+        {
+            "name": "ما هو الحرم المكي؟",
+            "correct_answer": "بيت الله في مكة",
+            "wrong_answers": ["المسجد النبوي", "المسجد الأقصى", "الكعبة"]
+        },
+        {
+            "name": "كم ركعة في صلاة العشاء؟",
+            "correct_answer": "أربع ركعات",
+            "wrong_answers": ["ركعتان", "ست ركعات", "ثلاث ركعات"]
+        },
+        {
+            "name": "ما هو الركن الأول من أركان الإسلام؟",
+            "correct_answer": "الشهادتان",
+            "wrong_answers": ["إقامة الصلاة", "إيتاء الزكاة", "صوم رمضان"]
+        },
+        {
+            "name": "من هو الصحابي الذي كان يلقب بـ 'ذي النورين'؟",
+            "correct_answer": "عثمان بن عفان",
+            "wrong_answers": ["علي بن أبي طالب", "أبو بكر الصديق", "الزبير بن العوام"]
+        },
+        {
+            "name": "من هو النبي الذي تكلم في المهد؟",
+            "correct_answer": "عيسى عليه السلام",
+            "wrong_answers": [
+                "محمد صلى الله عليه وسلم",
+                "إبراهيم عليه السلام",
+                "يحيى عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي الغزوة التي جُرح فيها النبي؟",
+            "correct_answer": "غزوة أحد",
+            "wrong_answers": ["غزوة بدر", "غزوة حنين", "غزوة الخندق"]
+        },
+        {
+            "name": "ما هو عدد آيات القرآن؟",
+            "correct_answer": "6236 آية",
+            "wrong_answers": ["6240 آية", "6230 آية", "6250 آية"]
+        },
+        {
+            "name": "من هو أول من كتب الوحي؟",
+            "correct_answer": "زيد بن ثابت",
+            "wrong_answers": ["عبد الله بن عباس", "علي بن أبي طالب", "أبو هريرة"]
+        },
+        {
+            "name": "ما هو الركن الثالث من أركان الإسلام؟",
+            "correct_answer": "إيتاء الزكاة",
+            "wrong_answers": ["إقامة الصلاة", "صوم رمضان", "حج البيت"]
+        },
+        {
+            "name": "من هو أول خليفة في الإسلام؟",
+            "correct_answer": "أبو بكر الصديق",
+            "wrong_answers": ["عمر بن الخطاب", "عثمان بن عفان", "علي بن أبي طالب"]
+        },
+        {
+            "name": "ما هي السورة التي نزلت كاملة؟",
+            "correct_answer": "سورة الفاتحة",
+            "wrong_answers": ["سورة الإخلاص", "سورة الكوثر", "سورة الناس"]
+        },
+        {
+            "name": "ما هي السورة التي سميت على اسم إحدى الغزوات؟",
+            "correct_answer": "سورة الأحزاب",
+            "wrong_answers": ["سورة بدر", "سورة الحزاب", "سورة الفتح"]
+        },
+        {
+            "name": "من هو النبي الذي جاء بعد سيدنا موسى؟",
+            "correct_answer": "النبي يوشع بن نون",
+            "wrong_answers": ["النبي داوود", "النبي سليمان", "النبي هارون"]
+        },
+        {
+            "name": "ما هو عدد السجدات في القرآن الكريم؟",
+            "correct_answer": "15 سجدة",
+            "wrong_answers": ["14 سجدة", "16 سجدة", "13 سجدة"]
+        },
+        {
+            "name": "من هو الصحابي الذي بشره النبي بالجنة وهو حي؟",
+            "correct_answer": "عبد الرحمن بن عوف",
+            "wrong_answers": ["أبو بكر الصديق", "عمر بن الخطاب", "عثمان بن عفان"]
+        },
+        {
+            "name": "ما هو اسم أول مسجد بني في الإسلام؟",
+            "correct_answer": "مسجد قباء",
+            "wrong_answers": ["المسجد النبوي", "مسجد الكعبة", "مسجد القبلتين"]
+        },
+        {
+            "name": "ما هو الحرم النبوي؟",
+            "correct_answer": "المسجد النبوي في المدينة المنورة",
+            "wrong_answers": ["المسجد الأقصى", "المسجد الحرام", "مسجد قباء"]
+        },
+        {
+            "name": "ما هو الركن الرابع من أركان الإسلام؟",
+            "correct_answer": "صوم رمضان",
+            "wrong_answers": ["إيتاء الزكاة", "حج البيت", "الشهادتان"]
+        },
+        {
+            "name": "كم عدد زوجات النبي محمد؟",
+            "correct_answer": "11 زوجة",
+            "wrong_answers": ["9 زوجات", "12 زوجة", "7 زوجات"]
+        },
+        {
+            "name": "من هي أول زوجة للنبي محمد؟",
+            "correct_answer": "خديجة بنت خويلد",
+            "wrong_answers": ["عائشة بنت أبي بكر", "زينب بنت جحش", "أم سلمة"]
+        },
+        {
+            "name": "ما هو عدد الركعات في صلاة الجمعة؟",
+            "correct_answer": "ركعتان",
+            "wrong_answers": ["4 ركعات", "3 ركعات", "5 ركعات"]
+        },
+        {
+            "name": "من هو الصحابي الذي لقب بالفاروق؟",
+            "correct_answer": "عمر بن الخطاب",
+            "wrong_answers": ["أبو بكر الصديق", "عثمان بن عفان", "علي بن أبي طالب"]
+        },
+        {
+            "name": "ما هي السورة التي ذكر فيها الحج؟",
+            "correct_answer": "سورة الحج",
+            "wrong_answers": ["سورة الفتح", "سورة النصر", "سورة القمر"]
+        },
+        {
+            "name": "ما هي السورة التي ذكر فيها العنكبوت؟",
+            "correct_answer": "سورة العنكبوت",
+            "wrong_answers": ["سورة النمل", "سورة الفيل", "سورة المرسلات"]
+        },
+        {
+            "name": "من هو الذي نام في فراش النبي ليلة الهجرة؟",
+            "correct_answer": "علي بن أبي طالب",
+            "wrong_answers": ["أبو بكر الصديق", "عثمان بن عفان", "عبد الله بن عباس"]
+        },
+        {
+            "name": "ما هي السورة التي تبدأ بـ 'يس'؟",
+            "correct_answer": "سورة يس",
+            "wrong_answers": ["سورة الصافات", "سورة القمر", "سورة الواقعة"]
+        },
+        {
+            "name": "كم مرة ذُكِر اسم 'محمد' في القرآن؟",
+            "correct_answer": "4 مرات",
+            "wrong_answers": ["3 مرات", "5 مرات", "6 مرات"]
+        },
+        {
+            "name": "ما هو الركن الخامس من أركان الإسلام؟",
+            "correct_answer": "حج البيت لمن استطاع إليه سبيلا",
+            "wrong_answers": ["إيتاء الزكاة", "صوم رمضان", "الشهادتان"]
+        },
+        {
+            "name": "من هو الصحابي الذي أسلم على يد النبي وكان صغيراً؟",
+            "correct_answer": "علي بن أبي طالب",
+            "wrong_answers": ["أبو هريرة", "عبد الله بن عمر", "أنس بن مالك"]
+        },
+        {
+            "name": "ما هي السورة التي ذكرت فيها قصة نوح؟",
+            "correct_answer": "سورة نوح",
+            "wrong_answers": ["سورة الأعراف", "سورة يوسف", "سورة هود"]
+        },
+        {
+            "name": "من هو الصحابي الذي لقبه النبي بـ 'أبو تراب'؟",
+            "correct_answer": "علي بن أبي طالب",
+            "wrong_answers": ["عمر بن الخطاب", "أبو بكر الصديق", "عثمان بن عفان"]
+        },
+        {
+            "name": "ما هي السورة التي تبدأ بـ 'طه'؟",
+            "correct_answer": "سورة طه",
+            "wrong_answers": ["سورة يس", "سورة القمر", "سورة الملك"]
+        },
+        {
+            "name": "كم مرة ذُكر 'الرحمن' في القرآن؟",
+            "correct_answer": "57 مرة",
+            "wrong_answers": ["60 مرة", "50 مرة", "55 مرة"]
+        },
+        {
+            "name": "ما هي السورة التي ذكرت فيها قصة أصحاب الكهف؟",
+            "correct_answer": "سورة الكهف",
+            "wrong_answers": ["سورة الأنبياء", "سورة الفتح", "سورة القمر"]
+        },
+        {
+            "name": "من هو النبي الذي رفعه الله إلى السماء؟",
+            "correct_answer": "عيسى عليه السلام",
+            "wrong_answers": [
+                "إبراهيم عليه السلام",
+                "موسى عليه السلام",
+                "محمد صلى الله عليه وسلم"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي تحدثت عن هجرة النبي؟",
+            "correct_answer": "سورة التوبة",
+            "wrong_answers": ["سورة الفتح", "سورة الأنفال", "سورة المجادلة"]
+        },
+        {
+            "name": "من هو أول من بنى الكعبة؟",
+            "correct_answer": "النبي إبراهيم عليه السلام",
+            "wrong_answers": [
+                "النبي محمد صلى الله عليه وسلم",
+                "النبي نوح عليه السلام",
+                "النبي عيسى عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي المدينة التي ولد فيها النبي محمد؟",
+            "correct_answer": "مكة المكرمة",
+            "wrong_answers": ["المدينة المنورة", "القدس", "طائف"]
+        },
+        {
+            "name": "من هو النبي الذي لبث في قومه ألف سنة إلا خمسين عاماً؟",
+            "correct_answer": "نوح عليه السلام",
+            "wrong_answers": [
+                "إبراهيم عليه السلام",
+                "موسى عليه السلام",
+                "محمد صلى الله عليه وسلم"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي نزلت في المدينة؟",
+            "correct_answer": "سورة البقرة",
+            "wrong_answers": ["سورة النور", "سورة الفرقان", "سورة آل عمران"]
+        },
+        {
+            "name": "من هو الملك الموكل بالنفخ في الصور؟",
+            "correct_answer": "إسرافيل عليه السلام",
+            "wrong_answers": [
+                "جبريل عليه السلام",
+                "ميكائيل عليه السلام",
+                "ملك الموت عليه السلام"
+            ]
+        },
+        {
+            "name": "من هو الصحابي الذي حضر بدر وكان أشد فرحاً؟",
+            "correct_answer": "عبد الله بن مسعود",
+            "wrong_answers": ["عمر بن الخطاب", "أبو بكر الصديق", "علي بن أبي طالب"]
+        },
+        {
+            "name": "ما هي أول غزوة للنبي محمد؟",
+            "correct_answer": "غزوة بدر",
+            "wrong_answers": ["غزوة أحد", "غزوة الخندق", "غزوة مؤتة"]
+        },
+        {
+            "name": "كم كان عمر النبي عندما بعث؟",
+            "correct_answer": "40 سنة",
+            "wrong_answers": ["30 سنة", "35 سنة", "45 سنة"]
+        },
+        {
+            "name": "من هو الصحابي الذي قتله المسلمون خطأ في غزوة بدر؟",
+            "correct_answer": "حذيفة بن اليمان",
+            "wrong_answers": ["عثمان بن عفان", "عبد الله بن عباس", "سعد بن أبي وقاص"]
+        },
+        {
+            "name": "ما هي الصلاة التي تذكر في وقت الخوف؟",
+            "correct_answer": "صلاة الخوف",
+            "wrong_answers": ["صلاة الليل", "صلاة العيد", "صلاة التراويح"]
+        },
+        {
+            "name": "من هو النبي الذي أمره الله ببناء سفينة؟",
+            "correct_answer": "نوح عليه السلام",
+            "wrong_answers": [
+                "موسى عليه السلام",
+                "إبراهيم عليه السلام",
+                "آدم عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي تسمى بسورة التوحيد؟",
+            "correct_answer": "سورة الإخلاص",
+            "wrong_answers": ["سورة الفاتحة", "سورة البقرة", "سورة الحديد"]
+        },
+        {
+            "name": "من هو الصحابي الذي كان يكتب الوحي؟",
+            "correct_answer": "زيد بن ثابت",
+            "wrong_answers": ["أبو هريرة", "عثمان بن عفان", "عبد الله بن مسعود"]
+        },
+        {
+            "name": "ما هو اسم الجبل الذي كان يحب النبي؟",
+            "correct_answer": "جبل أحد",
+            "wrong_answers": ["جبل الطور", "جبل عرفة", "جبل الرماة"]
+        },
+        {
+            "name": "ما هي الكلمة التي تكرر ذكرها في القرآن؟",
+            "correct_answer": "الله",
+            "wrong_answers": ["الرحمن", "الرحيم", "الملك"]
+        },
+        {
+            "name": "من هو النبي الذي كان له تسع وتسعون نعجة؟",
+            "correct_answer": "النبي داود عليه السلام",
+            "wrong_answers": [
+                "النبي يوسف عليه السلام",
+                "النبي سليمان عليه السلام",
+                "النبي موسى عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي لا تبدأ بالبسملة؟",
+            "correct_answer": "سورة التوبة",
+            "wrong_answers": ["سورة النساء", "سورة الأنعام", "سورة التوحيد"]
+        },
+        {
+            "name": "من هو الصحابي الذي بشره النبي بالجنة؟",
+            "correct_answer": "عبد الله بن سلام",
+            "wrong_answers": ["أبو بكر الصديق", "علي بن أبي طالب", "الزبير بن العوام"]
+        },
+        {
+            "name": "من هو الصحابي الذي كان له دور عظيم في توحيد القبائل؟",
+            "correct_answer": "عبد الله بن عباس",
+            "wrong_answers": ["عثمان بن عفان", "معاذ بن جبل", "أبو هريرة"]
+        },
+        {
+            "name": "ما هو اسم النبي الذي أعطاه الله علماً بالحكم؟",
+            "correct_answer": "النبي سليمان عليه السلام",
+            "wrong_answers": [
+                "النبي يوسف عليه السلام",
+                "النبي موسى عليه السلام",
+                "النبي داود عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هو عدد الأسماء الحسنى؟",
+            "correct_answer": "99 اسماً",
+            "wrong_answers": ["100 اسماً", "50 اسماً", "72 اسماً"]
+        },
+        {
+            "name": "ما هي السورة التي تحدثت عن براءة عائشة رضي الله عنها؟",
+            "correct_answer": "سورة النور",
+            "wrong_answers": ["سورة الأحزاب", "سورة النساء", "سورة الفتح"]
+        },
+        {
+            "name": "من هو النبي الذي طلب منه الله أن يصبر على الأذى؟",
+            "correct_answer": "أيوب عليه السلام",
+            "wrong_answers": [
+                "موسى عليه السلام",
+                "محمد صلى الله عليه وسلم",
+                "إبراهيم عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي تحث على صلة الرحم؟",
+            "correct_answer": "سورة النساء",
+            "wrong_answers": ["سورة البقرة", "سورة الأنعام", "سورة الحجرات"]
+        },
+        {
+            "name": "من هو الصحابي الذي قتله المسلمون في غزوة بدر؟",
+            "correct_answer": "أبو جهل",
+            "wrong_answers": ["عكرمة بن أبي جهل", "عمرو بن العاص", "سعيد بن أبي وقاص"]
+        },
+        {
+            "name": "ما هو الركن الثالث من الإيمان؟",
+            "correct_answer": "الإيمان بالكتب السماوية",
+            "wrong_answers": [
+                "الإيمان بالملائكة",
+                "الإيمان بالأنبياء",
+                "الإيمان بالقضاء والقدر"
+            ]
+        },
+        {
+            "name": "ما هي الآية التي نزلت في شأن التحذير من الجهل؟",
+            "correct_answer": "واتقوا الله ويعلمكم الله",
+            "wrong_answers": [
+                "واذكروا الله في أنفسكم",
+                "إنما يخشى الله من عباده العلماء",
+                "فذكر إن نفعت الذكرى"
+            ]
+        },
+        {
+            "name": "من هو الصحابي الذي لقب بـ 'حبر الأمة'؟",
+            "correct_answer": "عبد الله بن عباس",
+            "wrong_answers": ["أبو هريرة", "زيد بن ثابت", "علي بن أبي طالب"]
+        },
+        {
+            "name": "ما هي السورة التي تشرح كيف ينزل المطر؟",
+            "correct_answer": "سورة النبأ",
+            "wrong_answers": ["سورة الرعد", "سورة الطارق", "سورة الفجر"]
+        },
+        {
+            "name": "ما هو اسم السورة التي تحمل معنى 'التغابن'؟",
+            "correct_answer": "سورة التغابن",
+            "wrong_answers": ["سورة المطففين", "سورة الحديد", "سورة الجاثية"]
+        },
+        {
+            "name": "ما هو عدد أحاديث صحيح البخاري؟",
+            "correct_answer": "7563 حديثاً",
+            "wrong_answers": ["7000 حديثاً", "5000 حديثاً", "8000 حديثاً"]
+        },
+        {
+            "name": "من هو النبي الذي كان خطيباً بليغاً؟",
+            "correct_answer": "النبي شعيب عليه السلام",
+            "wrong_answers": [
+                "النبي موسى عليه السلام",
+                "النبي محمد صلى الله عليه وسلم",
+                "النبي يوسف عليه السلام"
+            ]
+        },
+        {
+            "name": "ما هي السورة التي تحدثت عن بر الوالدين؟",
+            "correct_answer": "سورة لقمان",
+            "wrong_answers": ["سورة الفاتحة", "سورة الإسراء", "سورة الأنبياء"]
+        },
+        {
+            "name": "من هو الصحابي الذي لقب بذي الشهادتين؟",
+            "correct_answer": "خزيمة بن ثابت",
+            "wrong_answers": ["سعيد بن زيد", "أبو بكر الصديق", "أبو هريرة"]
+        },
+        {
+            "name": "ما هي السورة التي ذكرت فيها نعمة الشكر؟",
+            "correct_answer": "سورة النمل",
+            "wrong_answers": ["سورة البقرة", "سورة آل عمران", "سورة الفاتحة"]
+        },
+        {
+            "name": "ما هي السورة التي تحدثت عن الحواس؟",
+            "correct_answer": "سورة النحل",
+            "wrong_answers": ["سورة الكهف", "سورة البقرة", "سورة النبأ"]
+        }
+    ],
+    "azkar": [
+        {
+            "zekr": {
+                "arabic": "اللَّهُ لَا إِلٰهَ إِلَّا هُوَ",
+                "english": "Allah, there is no god but He"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ رَبِّيَ الْمَلِكِ",
+                "english": "Glory is to my Lord, the King"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "الْحَمْدُ لِلَّهِ رَبِّ السَّمَاوَاتِ وَرَبِّ الْأَرْضِ",
+                "english": "All praise is due to Allah, Lord of the heavens and Lord of the earth"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "مَا شَاءَ اللَّهُ",
+                "english": "What Allah wills"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "لَا حَوْلَ وَلا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+                "english": "There is no power and no strength except with Allah, the Most High, the Most Great"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي لَا أَمْلِكُ لِأَحَدٍ مِنْ خَلْقِكَ شَيْئًا",
+                "english": "O Allah, I do not possess anything for any of Your creation"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الصَّابِرِينَ",
+                "english": "O Allah, make us among the patient"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالإِسْلَامِ دِينًا وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+                "english": "I am pleased with Allah as my Lord, with Islam as my religion, and with Muhammad as my Prophet"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْخَيْرِ وَالْبِرِّ",
+                "english": "O Allah, make us among the people of goodness and righteousness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ عَافِنِي فِي دِينِي وَدُنْيَايَ وَآخِرَتِي",
+                "english": "O Allah, grant me health in my religion, my world, and my hereafter"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ لَا تَكِلْنِي إِلَىٰ نَفْسِي",
+                "english": "O Allah, do not entrust me to myself"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+                "english": "Glory is to Allah and praise is to Him"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+                "english": "O Allah, send blessings upon Muhammad and the family of Muhammad"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غَشْوَةِ الْمُغْتَارِينَ",
+                "english": "O Allah, I seek refuge in You from the deceit of those who are deceived"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الَّذِينَ يَحْسِنُونَ عَمَلًا",
+                "english": "O Allah, make us among those who do good deeds"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+                "english": "In the name of Allah, the Most Gracious, the Most Merciful"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ أَكْبَرُ عَظِيمًا",
+                "english": "Allah is the Greatest, the Most Great"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "يَا حَيُّ يَا قَيُّومُ",
+                "english": "O Ever-Living, O Sustainer"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ وَرَحْمَتِكَ",
+                "english": "O Allah, I ask You for Your bounty and mercy"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ رَبُّنَا لَا نُشْرِكُ بِهِ شَيْئًا",
+                "english": "Allah is our Lord, we do not associate anything with Him"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ بَارِكْ لِي فِي رِزْقِي",
+                "english": "O Allah, bless me in my sustenance"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+                "english": "Glory is to Allah and praise is to Him"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الرَّحْمَةِ وَالْغُفْرَانِ",
+                "english": "O Allah, make us among the people of mercy and forgiveness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ أَكْبَرُ وَاللَّهُ أَكْبَرُ",
+                "english": "Allah is the Greatest, Allah is the Greatest"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ لَا إِلٰهَ إِلَّا هُوَ",
+                "english": "There is no god but Allah"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْمُجَاهِدِينَ",
+                "english": "O Allah, make us among the people of jihad"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+                "english": "O Allah, I seek refuge in You from the trial of the Antichrist"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ",
+                "english": "Glory is to my Lord, the Most Great"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا فِي رِفْقٍ وَأَمَانٍ",
+                "english": "O Allah, make us in kindness and safety"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ أَكْبَرُ كَبِيرًا",
+                "english": "Allah is the Greatest, the Most Great"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَاطِلِ وَمِنْ كُلِّ شَرٍّ",
+                "english": "O Allah, I seek refuge in You from falsehood and all evil"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ لَا إِلٰهَ إِلَّا هُوَ وَحْدَهُ",
+                "english": "There is no god but He, the One"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ أَكْبَرُ وَاللَّهُ أَكْبَرُ",
+                "english": "Allah is the Greatest, Allah is the Greatest"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "يَا رَبِّ اجْعَلْنَا مِنْ أَهْلِ قُرْآنِكَ",
+                "english": "O my Lord, make us among the people of Your Qur'an"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ النَّجَاةِ",
+                "english": "O Allah, make us among the people of salvation"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ رَبُّنَا وَرَبُّكُمْ",
+                "english": "Allah is our Lord and your Lord"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ عَافِنِي فِي دِينِي",
+                "english": "O Allah, grant me health in my religion"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الرَّحْمَةِ",
+                "english": "O Allah, make us among the people of mercy"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ وَدَرَكِ الشَّقَاءِ وَسُوءِ الْقَضَاءِ",
+                "english": "O Allah, I seek refuge in You from the hardship of trials, the calamities of misfortune, and the evil of the decree"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْتَقْوَىٰ وَمِنْ أَهْلِ الْمُغْفِرَةِ",
+                "english": "O Allah, make us among the people of piety and the people of forgiveness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمُعْجِزَةِ وَالْبَخْلِ",
+                "english": "O Allah, I seek refuge in You from incapacity and from miserliness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَىٰ",
+                "english": "Glory is to my Lord, the Most High"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الَّذِينَ يُحِبُّونَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+                "english": "O Allah, make us among those who love the Messenger of Allah, peace be upon him"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِمُحَمَّدٍ نَبِيًّا وَبِالإِسْلَامِ دِينًا",
+                "english": "I am pleased with Allah as my Lord, with Muhammad as my Prophet, and with Islam as my religion"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ النَّارِ",
+                "english": "O Allah, I seek refuge in You from the Fire"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "يَا رَحْمَٰنُ يَا رَحِيمُ",
+                "english": "O Most Merciful, O Most Compassionate"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ تَقَبَّلْ مِنَّا رَمَضَانَ",
+                "english": "O Allah, accept our Ramadan"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+                "english": "There is no god but He, the Ever-Living, the Sustainer of existence"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْبَرَاءَةِ",
+                "english": "O Allah, make us among the people of innocence"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا فِي رَحْمَتِكَ وَمَغْفِرَتِكَ",
+                "english": "O Allah, make us in Your mercy and forgiveness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ السُّوءِ وَالشَّوَائِبِ",
+                "english": "O Allah, I seek refuge in You from evil and calamities"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+                "english": "O Allah, I ask for Your forgiveness and turn to You in repentance"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْجَنَّةِ",
+                "english": "O Allah, make us among the people of Paradise"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ أَحْسِنْ خَاتِمَتَنَا",
+                "english": "O Allah, make our end good"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي وَفِي لُغَتِي",
+                "english": "O Allah, grant me health in my body and in my tongue"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+                "english": "Glory is to Allah and praise is to Him"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ عَلَىٰ نَبِيِّنَا مُحَمَّدٍ",
+                "english": "O Allah, send blessings and peace upon our Prophet Muhammad"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الرَّحْمَةِ",
+                "english": "O Allah, make us among the people of mercy"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ الْمُدْبِرِينَ",
+                "english": "O Allah, I seek refuge in You from the evil of the devils"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ التَّوْبَةِ",
+                "english": "O Allah, make us among the people of repentance"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُ رَبُّ السَّمَاوَاتِ وَرَبُّ الْأَرْضِ",
+                "english": "Allah is the Lord of the heavens and the Lord of the earth"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ التَّقْوَىٰ وَالْغُفْرَانِ",
+                "english": "O Allah, make us among the people of piety and forgiveness"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+                "english": "O Allah, I seek refuge in You from the trial of the Antichrist"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ السَّجْدَةِ",
+                "english": "O Allah, make us among the people of prostration"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ تَقَبَّلْ صِيَامَنَا وَقِيَامَنَا",
+                "english": "O Allah, accept our fasting and our standing in prayer"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْمُدَافِعِينَ عَنْ دِينِكَ",
+                "english": "O Allah, make us among those who defend Your religion"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الشُّكْرِ",
+                "english": "O Allah, make us among the people of gratitude"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ النَّفْسِ وَشَرِّ الْمَعَاصِي",
+                "english": "O Allah, I seek refuge in You from the trial of the soul and the evil of sins"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ عَافِنِي فِي دِينِي وَدُنْيَايَ",
+                "english": "O Allah, grant me health in my religion and my world"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الَّذِينَ يُدْنُونَ فِي الْجَنَّةِ",
+                "english": "O Allah, make us among those who draw near to Paradise"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ السَّابِقِينَ",
+                "english": "O Allah, make us among the foremost"
+            }
+        },
+        {
+            "zekr": {
+                "arabic": "اللَّهُمَّ أَجِبْ دُعَاءَنَا",
+                "english": "O Allah, answer our supplications"
+            }
+        }
+    ],
+    "ahadith": [
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الدين النصيحة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Religion is sincere advice.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يشكر الناس لا يشكر الله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not thank people, does not thank Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إِنَّمَا الأعمالُ بِالنِّيَّاتِ».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Actions are judged by intentions.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤثِرِ الناسَ لا يُؤثَرْ».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not prefer others over himself, will not be preferred.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الطهور شطر الإيمان».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Purity is half of faith.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤمن به إلا الله فهو المؤمن حقا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever believes in Allah alone, is truly a believer.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من علم آية من كتاب الله فقد علم خيرًا كثيرًا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever learns one verse from the Book of Allah has learned a great deal of good.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الجنة تحت أقدام الأمهات».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Paradise lies under the feet of mothers.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا رحمة له لا يُرحم».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who has no mercy will not be shown mercy.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «اللهم حبب إلينا الإيمان وزينه في قلوبنا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'O Allah, make faith beloved to us and adorn it in our hearts.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤمن بالغيب فلا إيمان له».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not believe in the unseen, has no faith.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إِنَّ الله لا ينظر إلى أجسامكم ولا إلى صوركم ولكن ينظر إلى قلوبكم».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Indeed, Allah does not look at your bodies or your forms, but He looks at your hearts.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الدنيا سجن المؤمن وجنة الكافر».",
+                "english": "The Messenger of Allah (ﷺ) said: 'This world is the prison of the believer and the paradise of the disbeliever.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من صلى عليَّ صلاة واحدة صلى الله عليه بها عشرة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever sends blessings upon me once, Allah will send blessings upon him ten times.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «أقربكم مني مجلسًا يوم القيامة أحسنكم أخلاقًا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'The closest to me in sitting on the Day of Judgment will be those who are the best in character.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إنما الأعمال بالنيات».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Verily, actions are by intentions.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يشكر الله لا يشكر الناس».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not thank Allah does not thank people.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «أبشروا، فإن النصر مع الصبر».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Rejoice, for victory comes with patience.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من دعا إلى هدى كان له من الأجر مثل أجر من تبعه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever calls to guidance will have the same reward as the one who follows him.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من حافظ على صلاة الفجر كان في ذمة الله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever maintains the Fajr prayer is under the protection of Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من يرد الله به خيرًا يُصِبْهُ بمصيبة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whomsoever Allah intends good for, He afflicts him with a trial.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الحياء لا يأتي إلا بخير».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Modesty only brings good.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من ترك شيئًا لله عوضه الله خيرًا منه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever leaves something for the sake of Allah, Allah will replace it with something better.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من شهد أن لا إله إلا الله وأن محمدًا عبده ورسوله فله الجنة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever witnesses that there is no god but Allah, and that Muhammad is His servant and messenger, will enter Paradise.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤثِرِ الناس فليس منهم».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not prefer others is not one of us.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤمن بالغيب لا يُؤمن بالله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not believe in the unseen does not believe in Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «أفضل الأعمال أدومها وإن قل».",
+                "english": "The Messenger of Allah (ﷺ) said: 'The best deeds are those which are consistent, even if they are few.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «ألا إن في الجسد مضغة إذا صلحت صلح الجسد كله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Indeed, in the body, there is a piece of flesh that if it is righteous, the whole body becomes righteous.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إن الله يحب إذا عمل أحدكم عملاً أن يتقنه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Indeed, Allah loves that when any one of you does a deed, he does it well.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يشكر الله لا يشكر الناس».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not thank Allah does not thank people.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤثِرِ الناس فليس منا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not prefer others is not from us.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لزم الاستغفار جعل الله له من كل هم فرجًا».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever makes a habit of seeking forgiveness, Allah will make a way out of every distress for him.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الطهور شطر الإيمان».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Purity is half of faith.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «أفضل الأعمال إيمانًا أن تؤمن بالله ورسوله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'The best of deeds in faith is to believe in Allah and His Messenger.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يرحم لا يُرحم».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not show mercy, will not be shown mercy.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من صام رمضان إيمانًا واحتسابًا غفر له ما تقدم من ذنبه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever fasts during Ramadan with faith and expecting reward from Allah, will have his past sins forgiven.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤثِرِ الناس لا يُؤثَرْ».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not prefer others over himself will not be preferred.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «اللهم اجعلنا من أهل الجنة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'O Allah, make us among the people of Paradise.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إن الله لا ينظر إلى أجسامكم ولا إلى صوركم ولكن ينظر إلى قلوبكم».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Indeed, Allah does not look at your bodies or your forms, but He looks at your hearts.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤمن بالغيب لا يُؤمن بالله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not believe in the unseen does not believe in Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «الدنيا سجن المؤمن وجنة الكافر».",
+                "english": "The Messenger of Allah (ﷺ) said: 'This world is the prison of the believer and the paradise of the disbeliever.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever believes in Allah and the Last Day should speak good or remain silent.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من صلى عليَّ صلاة واحدة صلى الله عليه بها عشرة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever sends blessings upon me once, Allah will send blessings upon him ten times.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يحبنا فلا يؤمن».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever does not love us, does not believe.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «إنما الأعمال بالنيات».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Actions are judged by intentions.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤثِرِ الناس لا يُؤثَرْ».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not prefer others over himself, will not be preferred.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من شهد أن لا إله إلا الله وأن محمدًا عبده ورسوله فله الجنة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever witnesses that there is no god but Allah, and that Muhammad is His servant and messenger, will enter Paradise.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «أفضل الأعمال أدومها وإن قل».",
+                "english": "The Messenger of Allah (ﷺ) said: 'The best deeds are those which are consistent, even if they are few.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من يرد الله به خيرًا يُصِبْهُ بمصيبة».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whomsoever Allah intends good for, He afflicts him with a trial.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من رأى منكم منكرًا فليغيره بيده».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever among you sees a wrong, let him change it with his hand.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يُؤمن بالغيب لا يُؤمن بالله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'He who does not believe in the unseen does not believe in Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «لا يُؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'None of you truly believes until he loves for his brother what he loves for himself.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من كذب عليّ متعمدًا فليتبوأ مقعده من النار».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever lies about me intentionally, let him take his seat in the Hellfire.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من صام رمضان إيمانًا واحتسابًا غفر له ما تقدم من ذنبه».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever fasts during Ramadan with faith and expecting reward from Allah, will have his past sins forgiven.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من صلى الفجر في جماعة فهو في ذمة الله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever prays Fajr in congregation is under the protection of Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من مشى مع أخيه في حاجة حتى قضاها فكأنما خدمه في بيت الله».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever helps his brother fulfill a need until it is completed, it is as if he has served him in the House of Allah.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من لا يتغدى ويشرب ماء السَّمَر، فقد شبع».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever does not have lunch and drinks water at night, he has filled his stomach.'"
+            }
+        },
+        {
+            "hadith": {
+                "arabic": "قال رسول الله صلى الله عليه وسلم: «من أخذ بمقالة في عملٍ من عمله يتقرب إلى الله بها فقد تطهر».",
+                "english": "The Messenger of Allah (ﷺ) said: 'Whoever acts in accordance with what he believes will bring him closer to Allah has purified himself.'"
+            }
+        }
+    ]
+}
