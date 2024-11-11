@@ -7,9 +7,9 @@ A simple npm package that makes it easier for the user to break discord TOS.
 - **Autoreaction**: Auto reacts on giveaways so you can win alot of them without moving a muscle
 - **Auto leveling**: Just spams in a specific channel so you can level up for any bot
 - **Staying in voice**: same thing as auto leveling but for farming vc exp
-- **BroadCast**: Advertises to everyone in the server using a discord bot. Very usefull for advertisment
-- **MultiCast**: BroadCast but with multiple bots incase one of the bots gets banned
-- **Quran**: A class featuring alot of Islamic useful functions. (random azkar, random ahadith, **`playing the holy quran in the vc`**)
+- **<a href="./docs/broadcast.md">BroadCast</a>**: Advertises to everyone in the server using a discord bot. Very usefull for advertisment
+- **<a href="./docs/MultiCast.md">MultiCast</a>**: BroadCast but with multiple bots incase one of the bots gets banned
+- **<a href="./docs/Quran.md">Quran</a>**: A class featuring alot of Islamic useful functions. (random azkar, random ahadith, **`playing the holy quran in the vc`**)
 - **Games**: WORKING ON IT!!
 
 ## Installation
@@ -33,4 +33,3 @@ To use this library, you need to have:
 
 ## Usage
 
-Please check the <a href="./docs/">Docs</a>.
