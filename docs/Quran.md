@@ -34,23 +34,26 @@ To use this library, you need to have:
 In your bot’s code, import and initialize the `Quran` class.
 
 ```typescript
-import { Quran } from './path/to/Quran';
-import { VoiceConnection } from '@discordjs/voice';
+const arabtools = require("arabtools");
 
+const client = new Discord.Client({intents:["Guilds", "GuildMembers", "GuildMessages","MessageContent"]});
 // Create a new Quran player instance
-const quran = new Quran();
+const arabtools = new arabtools.bot(client)
 ```
 # Play a Sura
 To play a sura by its name or number, use the `play` method. This will automatically fetch the corresponding audio and play it in the provided voice connection.
 ```typescript
 // Play a sura by name
-await quran.play("Al-Fatiha", voiceConnection);
+await arabtools.quran.play("Al-Fatiha", voiceConnection);
 
 // Play a sura by number
-await quran.play(1, voiceConnection);
+await arabtools.quran.play(1, voiceConnection);
 
 //Play a sura by a stringified number
-await quran.play('1', voiceConnection)
+await arabtools.quran.play('1', voiceConnection)
+
+//Play a sura by the arabic name
+await arabtools.quran.play('الفاتحة', voiceConnection)
 ```
 # Stop the Playback
 To stop the audio playback and disconnect from the voice channel, use the `stop` method:
