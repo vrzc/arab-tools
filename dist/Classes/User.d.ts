@@ -5,7 +5,6 @@ import JsonDB from "../utils/DB";
 import { AutoReactionOptions, LevelingOptions, VoiceStayOptions } from "../Interfaces/UserInterfaces";
 /**
  * Class for handling user-related auto-reactions and leveling interactions.
- * @extends EventEmitter
  */
 declare class UserRelatedClass extends EventEmitter {
     private client;

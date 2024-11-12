@@ -25,7 +25,6 @@ const bots = [
 ];
 /**
  * Class for handling user-related auto-reactions and leveling interactions.
- * @extends EventEmitter
  */
 class UserRelatedClass extends events_1.default {
     /**
