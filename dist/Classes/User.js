@@ -73,7 +73,6 @@ class UserRelatedClass extends events_1.default {
      * @param {number} [options.timeout=5000] - Delay in milliseconds before auto-reacting or interacting.
      * @param {string[]} [options.blacklistedwords=[]] - Array of words to ignore in message content or embed titles.
      * @param {string} [options.ownerId] - Optional ID of the owner for tracking and handling.
-     * @returns {Promise<void>} - Promise that resolves when the auto-reaction process starts.
      */
     autoreaction() {
         return __awaiter(this, arguments, void 0, function* (options = {}) {
@@ -102,7 +101,6 @@ class UserRelatedClass extends events_1.default {
     /**
      * @param message - The message indicating a win.
      * @param ownerId - The owner ID.
-     * @returns Promise that resolves when the win is processed.
      */
     handleWin(message, ownerId) {
         return __awaiter(this, void 0, void 0, function* () {
