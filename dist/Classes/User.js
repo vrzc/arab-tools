@@ -89,10 +89,10 @@ class UserRelatedClass extends events_1.default {
                     yield this.handleWin(message, ownerId);
                 }
                 if (message.components.length > 0) {
-                    yield this.handleComponentInteraction(message, sessionid, timeout, blacklistedwords);
+                    yield this.handleComponentInteraction(message, sessionid, timeout, blacklistedwords, ownerId);
                 }
                 else {
-                    yield this.handleReactions(message, timeout, blacklistedwords);
+                    yield this.handleReactions(message, timeout, blacklistedwords, ownerId);
                 }
             }));
         });
@@ -121,7 +121,7 @@ class UserRelatedClass extends events_1.default {
      * @param timeout - The delay before interacting.
      * @param blacklistedwords - Words to ignore in the interaction.
      */
-    handleComponentInteraction(message, sessionid, timeout, blacklistedwords) {
+    handleComponentInteraction(message, sessionid, timeout, blacklistedwords, ownerId) {
         return __awaiter(this, void 0, void 0, function* () {
             var _a, _b, _c, _d;
             const embedTitle = (_a = message.embeds[0]) === null || _a === void 0 ? void 0 : _a.title;
@@ -151,7 +151,7 @@ class UserRelatedClass extends events_1.default {
                     })
                 });
                 this.db.increment('/joins');
-                this.emit('giveawayCreated', { url: message.url, embed: message.embeds[0], bot: message.author.id });
+                this.emit('giveawayCreated', { url: message.url, embed: message.embeds[0], bot: message.author.id, owner: ownerId });
             }
             catch (error) {
                 console.error("Error interacting with component:", error);
@@ -164,7 +164,7 @@ class UserRelatedClass extends events_1.default {
      * @param timeout - The delay before reacting.
      * @param blacklistedwords - Words to avoid in reactions.
      */
-    handleReactions(message, timeout, blacklistedwords) {
+    handleReactions(message, timeout, blacklistedwords, ownerId) {
         return __awaiter(this, void 0, void 0, function* () {
             var _a, _b;
             const embedTitle = (_a = message.embeds[0]) === null || _a === void 0 ? void 0 : _a.title;
@@ -176,7 +176,7 @@ class UserRelatedClass extends events_1.default {
                 for (const react of message.reactions.cache.values()) {
                     yield message.react(react.emoji);
                     this.db.increment('/joins');
-                    this.emit('giveawayCreated', { url: message.url, embed: message.embeds[0], bot: message.author.id });
+                    this.emit('giveawayCreated', { url: message.url, embed: message.embeds[0], bot: message.author.id, owner: ownerId });
                 }
             }
             catch (error) {
