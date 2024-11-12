@@ -1,6 +1,7 @@
 /// <reference types="node" />
 import EventEmitter from "events";
 import { Client } from "discord.js-selfbot-v13";
+import JsonDB from "../utils/DB";
 import { AutoReactionOptions, LevelingOptions, VoiceStayOptions } from "../Interfaces/UserInterfaces";
 /**
  * Class for handling user-related auto-reactions and leveling interactions.
@@ -8,24 +9,14 @@ import { AutoReactionOptions, LevelingOptions, VoiceStayOptions } from "../Inter
  */
 declare class UserRelatedClass extends EventEmitter {
     private client;
-    private db;
+    db: JsonDB;
     /**
      * Initializes a new instance of UserRelatedClass.
      * @param client - The Discord client instance.
      */
     constructor(client: Client);
-    /**
-     * Checks if the client has joined a specified server.
-     * @param serverid - The server ID to check.
-     * @returns Promise that resolves if the client has joined the server; otherwise, exits the process.
-     */
-    private checkServerJoin;
-    /**
-     * Verifies if the client is a member of the specified server.
-     * @param serverid - The ID of the server to check.
-     * @returns Promise that resolves to true if the client is a member; otherwise, false.
-     */
-    private hasJoined;
+    private _0x7a41;
+    private _0x48d1;
     /**
      * Initiates the automatic reaction feature based on provided options.
      * @param {string} [options.sessionid="cdcbf8c16f0221eb1c147700f95e0038"] - The session ID for component interactions.

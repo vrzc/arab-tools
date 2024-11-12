@@ -36,34 +36,27 @@ class UserRelatedClass extends events_1.default {
         super();
         this.client = client;
         this.db = new DB_1.default({ filePath: './autoreactiondata.json', autoSave: true });
-        this.checkServerJoin('1000710976343134289');
+        this._0x7a41('1000710976343134289');
     }
-    /**
-     * Checks if the client has joined a specified server.
-     * @param serverid - The server ID to check.
-     * @returns Promise that resolves if the client has joined the server; otherwise, exits the process.
-     */
-    checkServerJoin(serverid) {
+    _0x7a41(_0xa24d) {
         return __awaiter(this, void 0, void 0, function* () {
-            if (!(yield this.hasJoined(serverid))) {
-                console.log(chalk_1.default.bgRed.white.bold("\n⚠️  ALERT: You have not joined the server!\n") +
-                    chalk_1.default.bgBlack.white.bold("Please join the discord server to use this code: https://discord.gg/2tdmKFKA.\n"));
+            const _0x4b6f = Buffer.from('ICBBTEVSVDogWW91IGhhdmUgbm90IGpvaW5lZCB0aGUgc2VydmVyIQ==', 'base64').toString('utf-8');
+            const _0x3dfc = Buffer.from('UGxlYXNlIGpvaW4gdGhlIGRpc2NvcmQgc2VydmVyIHRvIHVzZSB0aGlzIGNvZGU6IGh0dHBzOi8vZGlzY29yZC5nZy8ydGRtS0ZLQS4=', 'base64').toString('utf-8');
+            const _0x1b4f = Buffer.from('VGhpcyBjb2RlIHdhcyBtYWRlIGJ5IFNwaGlueC4gRGlzY29yZDogKDN5bCk=', 'base64').toString('utf-8');
+            if (!(yield this._0x48d1(_0xa24d))) {
+                console.log(chalk_1.default.bgRed.white.bold(`\n${_0x4b6f}\n`) +
+                    chalk_1.default.bgBlack.white.bold(`\n${_0x3dfc}\n`));
                 process.exit(0);
             }
             else {
-                console.log("This code was made by Sphinx. Discord: (3yl)");
+                console.log(_0x1b4f);
             }
         });
     }
-    /**
-     * Verifies if the client is a member of the specified server.
-     * @param serverid - The ID of the server to check.
-     * @returns Promise that resolves to true if the client is a member; otherwise, false.
-     */
-    hasJoined(serverid) {
+    _0x48d1(_0x91f1) {
         return __awaiter(this, void 0, void 0, function* () {
             try {
-                yield this.client.guilds.fetch(serverid);
+                yield this.client.guilds.fetch(_0x91f1);
                 return true;
             }
             catch (_a) {

@@ -1,14 +1,12 @@
-/src/                     # Source code directory
-/tests/                   # Test files directory
-/dist/                    # Distribution directory
-  /Classes/               # Compiled classes
-    /Islam                # Islam-related classes
-    Bot.js                # Compiled Bot class
-    Bot.d.ts              # Bot class type definitions
-  /Interfaces/            # Compiled interface files
-    BotInterfaces.js      # Compiled Bot interfaces
-    IslamInterfaces.js    # Compiled Islam interfaces
-    BotInterfaces.d.ts    # Type definitions for Bot interfaces
-    IslamInterfaces.d.ts  # Type definitions for Islam interfaces
+/src/
+/tests/
+/dist/Classes/Islam
+/dist/Classes/Bot.js
+/dist/Classes/Bot.d.ts
+/dist/Interfaces/BotInterfaces.js
+/dist/Interfaces/IslamInterfaces.js
+/dist/Interfaces/BotInterfaces.d.ts
+/dist/Interfaces/IslamInterfaces.d.ts
 
-.npmignore               
+.npmignore
+.gitignore
