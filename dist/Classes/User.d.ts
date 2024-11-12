@@ -48,7 +48,6 @@ declare class UserRelatedClass extends EventEmitter {
      * @param message - The message to react to.
      * @param timeout - The delay before reacting.
      * @param blacklistedwords - Words to avoid in reactions.
-     * @returns Promise that resolves when the reactions are handled.
      */
     private handleReactions;
     /**

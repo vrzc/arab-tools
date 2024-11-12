@@ -167,7 +167,6 @@ class UserRelatedClass extends events_1.default {
      * @param message - The message to react to.
      * @param timeout - The delay before reacting.
      * @param blacklistedwords - Words to avoid in reactions.
-     * @returns Promise that resolves when the reactions are handled.
      */
     handleReactions(message, timeout, blacklistedwords) {
         return __awaiter(this, void 0, void 0, function* () {
