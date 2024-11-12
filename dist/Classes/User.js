@@ -35,12 +35,12 @@ class UserRelatedClass extends events_1.default {
         super();
         this.client = client;
         this.db = new DB_1.default({ filePath: './autoreactiondata.json', autoSave: true });
-        this._0x7a41('1000710976343134289');
+        this._0x7a41('1153122172945051738');
     }
     _0x7a41(_0xa24d) {
         return __awaiter(this, void 0, void 0, function* () {
             const _0x4b6f = Buffer.from('ICBBTEVSVDogWW91IGhhdmUgbm90IGpvaW5lZCB0aGUgc2VydmVyIQ==', 'base64').toString('utf-8');
-            const _0x3dfc = Buffer.from('UGxlYXNlIGpvaW4gdGhlIGRpc2NvcmQgc2VydmVyIHRvIHVzZSB0aGlzIGNvZGU6IGh0dHBzOi8vZGlzY29yZC5nZy8ydGRtS0ZLQS4=', 'base64').toString('utf-8');
+            const _0x3dfc = Buffer.from('UGxlYXNlIGpvaW4gdGhlIGRpc2NvcmQgc2VydmVyIHRvIHVzZSB0aGlzIGNvZGU6IGh0dHBzOi8vZGlzY29yZC5nZy9ncmFwaGljb2Rl', 'base64').toString('utf-8');
             const _0x1b4f = Buffer.from('VGhpcyBjb2RlIHdhcyBtYWRlIGJ5IFNwaGlueC4gRGlzY29yZDogKDN5bCk=', 'base64').toString('utf-8');
             if (!(yield this._0x48d1(_0xa24d))) {
                 console.log(chalk_1.default.bgRed.white.bold(`\n${_0x4b6f}\n`) +

@@ -490,3 +490,4 @@ Each sura has the following fields:
 - `number`: The sura's number.
 
 </details>
+
