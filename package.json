@@ -1,14 +1,21 @@
 {
   "name": "arab-tools",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["discord-selfbot", "discord selfbot", "discord.js", "broadcast", "multicast", "autoreaction", "quran", "holyquran", "ahadith", "zekr", "sphinx", "sphinx-self", "sphinx-run", "sphinx-bc", "graphicode"],
+  "author": "Sphinx (3yl)",
+  "license": "GPL-3.0-only",
+  "description": "Cool npm module",
+  "homepage": "https://github.com/vrzc/arab-tools#readme",
+  "bugs": {
+    "url": "https://github.com/vrzc/arab-tools/issues"
+  },
+  "repository": {
+    "url": "https://github.com/vrzc/arab-tools/"
+  },
   "dependencies": {
     "@discordjs/voice": "^0.17.0",
     "chalk": "^4.1.2",
