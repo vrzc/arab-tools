@@ -1,5 +1,7 @@
 name: To Npm
 on:
+  push:
+    branches: [main]
   release:
     types: [created]  # Change to 'created' if you want to publish immediately after the release is created
 jobs:
