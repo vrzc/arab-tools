@@ -40,7 +40,6 @@ declare class UserRelatedClass extends EventEmitter {
      * @param sessionid - The session ID for interaction.
      * @param timeout - The delay before interacting.
      * @param blacklistedwords - Words to ignore in the interaction.
-     * @returns Promise that resolves when the interaction is processed.
      */
     private handleComponentInteraction;
     /**

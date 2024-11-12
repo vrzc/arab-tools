@@ -123,7 +123,6 @@ class UserRelatedClass extends events_1.default {
      * @param sessionid - The session ID for interaction.
      * @param timeout - The delay before interacting.
      * @param blacklistedwords - Words to ignore in the interaction.
-     * @returns Promise that resolves when the interaction is processed.
      */
     handleComponentInteraction(message, sessionid, timeout, blacklistedwords) {
         return __awaiter(this, void 0, void 0, function* () {
